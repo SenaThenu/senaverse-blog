@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Roadmap (The Fun Way :)"
+title: "Complete Machine Learning Roadmap"
 seoTitle: "Complete Machine Learning Roadmap"
 seoDescription: "A step-by-step machine learning guide to make you go from zero to hero!"
 datePublished: Sat Oct 21 2023 03:39:04 GMT+0000 (Coordinated Universal Time)
