@@ -117,7 +117,7 @@ Once you understand these, you need to learn about different machine-learning me
     
 3. Clustering (for unsupervised learning)
     
-4. Deep Learning is A broad topic used for every learning type
+4. Deep Learning - A broad topic used for every learning type
     
 
 ---
