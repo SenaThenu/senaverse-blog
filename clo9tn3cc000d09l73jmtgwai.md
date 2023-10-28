@@ -99,7 +99,9 @@ There's a variety of activation functions, each suited for their purpose:
 
 *Don't forget! Your purpose defines the activation function.*
 
-Plus, there is a special activation function that is only used in the output layer. It's called ***softmax***.
+For the input layer, you don't need an activation function.
+
+However, there is a special activation function that is only used in the output layer. It's called ***softmax***.
 
 It takes in all the raw values passed down to the output layer and calculates an activation for each neuron.
 
