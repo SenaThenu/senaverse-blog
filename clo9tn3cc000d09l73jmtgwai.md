@@ -186,8 +186,7 @@ For now, you just have to know some basic optimization functions like,
 
 | Optimization Function | Process | Pros | Cons |
 | --- | --- | --- | --- |
-| Gradient Descent | Iteratively updates weights & biases by moving in the direction of the steepest decrease in the loss function. | Simple  
-Widely applicable | High computation power is required + Can get stuck in local minima |
+| Gradient Descent | Iteratively updates weights & biases by moving in the direction of the steepest decrease in the loss function. | Simple and widely applicable | High computation power is required + Can get stuck in local minima |
 | Stochastic Gradient Descent (SGD) | A variant of gradient descent that randomly samples a subset of data for each iteration. | Faster computation | Can be noisy (i.e. random) + May require fine-tuning of the learning rate. |
 | Adam (Adaptive Moment Estimation) | An adaptive learning rate optimization algorithm that combines aspects of RMSprop and Momentum. | Fast computation | Sensitive to the choice of hyperparameters. |
 | RMSprop (Root Mean Square Propagation) | Maintains an adaptive learning rate for each parameter based on the magnitude of recent gradients. | Effective for non-stationary objectives. | Requires careful tuning of hyperparameters. |
