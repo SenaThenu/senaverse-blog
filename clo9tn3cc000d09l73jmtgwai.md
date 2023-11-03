@@ -172,11 +172,6 @@ To do so, it uses ***Backpropagation*** along with a fancy algorithm called Grad
 
 During this process, we are trying to tweak the weights and biases to get the minimum possible cost function of a neural network.
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">To do this, we differentiate the cost function with respect to every single weight and bias. (<em>Don't worry if you don't know Calculus, we'll dive deep into the math behind a neural network in a future article</em>)</div>
-</div>
-
 The cost of the neural network is supported by the activations of the output layer neurons. So, to change the activations of the output layer, we can,
 
 1. Change the weights of previous activations
