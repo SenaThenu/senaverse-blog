@@ -135,6 +135,15 @@ To achieve that, we use loss functions:
 | Cross-Entropy Loss | Quantifies the dissimilarity between predicted and true class probabilities. | Effective for classification tasks. | Sensitive to class imbalance. |
 | Mean Absolute Error | The mean absolute difference between predicted and actual values. | Less sensitive to outliers. | Slower convergence. |
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">When you add up all the losses for each prediction, you get the<strong><em> cost function </em></strong>of the predictions.</div>
+</div>
+
+ $$ \text{Cost Function} = \sum \text{Loss for each prediction}$$
+
+*To find the total cost of the neural network, we average this cost function for every training example.*
+
 **Ultimate Neural Network**
 
 Let's assume we input data that suits an apple. The whole process would be,
@@ -147,34 +156,58 @@ Let's assume we input data that suits an apple. The whole process would be,
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698449772045/06eebba7-1352-4da2-b3c7-54574a38e3b8.png align="center")
 
+ $$ \text{Cost of our NN} = 0.7744 + 0.7744+1 \times 10^8$$
+
 You see, because we haven't trained the network, it predicts the data represents an orange when the correct answer is an apple. So, let's train it!
 
 ### 🧑‍🏫 Training an NN
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698480880038/4e0cda5c-5d70-4067-8a24-17b1e788d5b4.jpeg?height=512 align="center")
 
-During the training process, the neural network constantly tries to minimise the loss function for each prediction.
+During the training process, the neural network constantly tries to minimise the cost function for each prediction.
 
-To do so, it uses a fancy algorithm called ***Backpropagation*** along with some cool ***Optimization Functions***.
+To do so, it uses ***Backpropagation*** along with a fancy algorithm called Gradient Descent.
 
 **Backpropagation**
 
-During this process, we are calculating how big/small the changes in the output-layer-activations should be to result in the desired outputs.
-
-Using these proportional changes for every neuron, we calculate the proportional changes that should have happened in the activations of the previous layer.
+During this process, we are trying to tweak the weights and biases to get the minimum possible cost function of a neural network.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">This way, the whole process is repeated for every previous neuron because every activation is dependent on them. That's why we call it <em>backpropagation</em>.</div>
+<div data-node-type="callout-text">To do this, we differentiate the cost function with respect to every single weight and bias. (<em>Don't worry if you don't know Calculus, we'll dive deep into the math behind a neural network in a future article</em>)</div>
 </div>
 
-To minimise complexity, we will focus on how the proportional changes for one neuron activation are propagated backwards from the output layer to the second hidden layer.
+The cost of the neural network is supported by the activations of the output layer neurons. So, to change the activations of the output layer, we can,
+
+1. Change the weights of previous activations
+    
+2. Change the bias added to the weighted sum
+    
+3. Change the activation of the previous neuron
+    
+    *This can't be directly tweaked since we have to change its weighted sum and bias.*
+    
+
+Each activation of a neuron depends on its previous weights, bias added to the weighted sum and the activations of the previous layer.
+
+*let a = an activation of a neuron in any neural network*
+
+$$a = (\sum{w\times a_{\text{previous}}}) + b$$
+
+Note how the current activation depends on previous activations. Those previous activations are even influenced by their own weights and biases.
+
+This way, layer by layer, we got deeper to proportionally optimise the weights and biases based on the magnitude they have on the cost function of the neural network. This is how this gets the name, ***Backpropagation***.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">We start from the last layer because that's the starting place to calculate the cost function of a neural network.</div>
+</div>
+
+Take the prediction of our neural network for example.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698449776770/a5a3f72f-9ef3-4b1e-a9ae-83b01b76e725.png?height=512 align="center")
 
 *Proportional changes are illustrated through the thickness and length of arrows in the image.*
-
-To achieve those required changes, we adjust the weights and biases which affect them the most. This is where optimization functions kick in.
 
 **Optimization Functions**
 
@@ -189,9 +222,8 @@ For now, you just have to know some basic optimization functions like,
 | Optimization Function | Process | Pros | Cons |
 | --- | --- | --- | --- |
 | Gradient Descent | Iteratively updates weights & biases by moving in the direction of the steepest decrease in the loss function. | Simple and widely applicable | High computation power is required + Can get stuck in local minima |
-| Stochastic Gradient Descent (SGD) | A variant of gradient descent that randomly samples a subset of data for each iteration. | Faster computation | Can be noisy (i.e. random) + May require fine-tuning of the learning rate. |
-| Adam (Adaptive Moment Estimation) | An adaptive learning rate optimization algorithm that combines aspects of RMSprop and Momentum. | Fast computation | Sensitive to the choice of hyperparameters. |
-| RMSprop (Root Mean Square Propagation) | Maintains an adaptive learning rate for each parameter based on the magnitude of recent gradients. | Effective for non-stationary objectives. | Requires careful tuning of hyperparameters. |
+| Stochastic Gradient Descent (SGD) | A variant of gradient descent that randomly samples a subset (mini-batch) of data for each iteration. | Faster computation | Can be noisy (i.e. random) + May require fine-tuning of the learning rate. |
+| Adam (Adaptive Moment Estimation) | A smarter approach to SGD where the network self teaches the optimal learning rate and the mini-batch size | Fast computation | Sensitive to the choice of hyperparameters. |
 
 ### 👋 Conclusion
 
