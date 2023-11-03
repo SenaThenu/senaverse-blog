@@ -140,7 +140,7 @@ To achieve that, we use loss functions:
 <div data-node-type="callout-text">When you add up all the losses for each prediction, you get the<strong><em> cost function </em></strong>of the predictions.</div>
 </div>
 
- $$ \text{Cost Function} = \sum \text{Loss for each prediction}$$
+$$\text{Cost Function} = \sum \text{Loss for each prediction}$$
 
 *To find the total cost of the neural network, we average this cost function for every training example.*
 
@@ -156,7 +156,7 @@ Let's assume we input data that suits an apple. The whole process would be,
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698449772045/06eebba7-1352-4da2-b3c7-54574a38e3b8.png align="center")
 
- $$ \text{Cost of our NN} = 0.7744 + 0.7744+1 \times 10^8$$
+$$\text{Cost of our NN} = 0.7744 + 0.7744+1 \times 10^8$$
 
 You see, because we haven't trained the network, it predicts the data represents an orange when the correct answer is an apple. So, let's train it!
 
@@ -200,7 +200,7 @@ This way, layer by layer, we got deeper to proportionally optimise the weights a
 
 Take the prediction of our neural network for example.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698449776770/a5a3f72f-9ef3-4b1e-a9ae-83b01b76e725.png?height=512 align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699046582280/1d5d1865-b9d7-4a87-9929-9cbcb396e18f.png?height=512 align="center")
 
 *Proportional changes are illustrated through the thickness and length of arrows in the image.*
 
