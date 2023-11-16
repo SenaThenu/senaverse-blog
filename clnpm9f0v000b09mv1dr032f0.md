@@ -17,7 +17,7 @@ Alright, I get it! You just woke up from a daydream and searched up, “How to i
     
 3. Master **Programming**
     
-4. Create a *Sexy* App
+4. Create a *Fancy* App
     
 5. Contact Some Aliens
     
