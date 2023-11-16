@@ -5,7 +5,7 @@ seoDescription: "A step-by-step machine learning guide to make you go from zero 
 datePublished: Sat Oct 21 2023 03:39:04 GMT+0000 (Coordinated Universal Time)
 cuid: clnzhqh65000009mlfwjrhs4v
 slug: machine-learning-roadmap
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697834488619/a84655c0-c888-4f44-adcb-0a79b54ee105.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700116640144/0c3b48a4-dfe1-4373-8239-849d88062a72.png
 tags: machine-learning, beginner, learning, guide, roadmap
 
 ---
