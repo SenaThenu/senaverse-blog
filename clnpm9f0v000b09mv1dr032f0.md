@@ -4,7 +4,7 @@ seoDescription: "A Step by Step guide to go from nothing to mastery!"
 datePublished: Sat Oct 14 2023 05:48:05 GMT+0000 (Coordinated Universal Time)
 cuid: clnpm9f0v000b09mv1dr032f0
 slug: learn-programming-like-a-pro
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697261940045/652da6ca-10f2-4872-8cfc-1e260e38cb95.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700116691732/3552093a-b746-4058-a761-088d8f515eaa.png
 tags: beginners, learn-coding, learning-journey
 
 ---
