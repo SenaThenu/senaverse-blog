@@ -83,7 +83,7 @@ I initially created the account by combining my social media nickname, SenaThenu
 
 Now, my excuse is: *The audience defines what XP stands for*😉... Hopefully, until then, Elon Musk won't force me to pay a copyright fee for using his sacred letter.
 
-### Conclusion
+### 👋 Conclusion
 
 I know Mr XP is not perfect at all.
 
