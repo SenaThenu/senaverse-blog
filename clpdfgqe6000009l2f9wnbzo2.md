@@ -18,7 +18,7 @@ Yet, I must confess, it was an abrupt beginning. So, I'm sure you deserve a bett
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Mr XP is a gender-neutral character. I couldn't use Mx since it didn't go well with their name. So, I would be using the pronouns they/them throughout this article 🙌!</div>
+<div data-node-type="callout-text">Mr XP is a gender-neutral character. I couldn't use Mx since it didn't go well with XP. So, I will be using they/them for Mr XP throughout this article 🙌!</div>
 </div>
 
 ### 💫 How It All Started
@@ -98,3 +98,7 @@ My point: Mr XP would be nothing if it weren't for those who follow them and con
 Since Mr XP is a separate personality, let me thank you on their behalf. I love you all. FOREVER! I mean it... That's an **XP**romise!
 
 *To make Mr XP better, I would love to hear some feedback from you! Your ideas are precious for this cute little Mr XP baby who's striving to grow up. So, don't be afraid to direct message Mr XP and share your thoughts/ideas. (Thanks a lot, again :)*
+
+---
+
+If you are more used to Medium, you can find this [here](https://medium.com/@senathenu/the-story-behind-mr-xp-8c178c4792e4)...
