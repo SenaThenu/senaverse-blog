@@ -10,7 +10,7 @@ tags: cartoon, comics, mr-xp
 
 ---
 
-Who the hell is Mr XP? Chances are, you may know them as this weird cartoon character on [Instagram](https://www.instagram.com/senathenu_xp/),
+Who the hell is Mr XP? Chances are, you may know them as this weird cartoon character on [Instagram](https://www.instagram.com/mr_xp_reports/),
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700875851680/9bc9c144-33b1-4124-8e20-92a4658445da.png?height=512 align="center")
 
