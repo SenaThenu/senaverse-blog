@@ -16,7 +16,7 @@ So, I researched and finally switched to Brave. No doubt, it's been an absolute 
 
 As I have been using Brave for quite a while, I thought of sharing my experience with you in this article. That way, you can even make a wise decision about your browser.
 
-### Why Brave?
+### ❓ Why Brave?
 
 My first choice was to switch to Mozilla Firefox since it was open-source. Once I started using it, I realised it doesn't support all the extensions I used in Chrome. That was where Brave kicked in.
 
@@ -39,7 +39,7 @@ In a gist, these were the core Brave features that attracted me over Chrome or F
 
 Undoubtedly, Brave is a clear win!
 
-### The Transition
+### 🔄 The Transition
 
 The transition from Chrome to Brave was *smooth*; more smoother than transitioning to Firefox. With one click, I could import all my browsing history, extensions and bookmarks from Chrome.
 
@@ -47,7 +47,7 @@ To be frank, I can't even tell that I am using Brave without looking at the logo
 
 If there's a browser that can knock Chrome out of its throne, that's Brave.
 
-### Additional Features of Brave
+### ✨ Additional Features of Brave
 
 * Since Brave has ad and tracker blockers, it has faster page loading speeds. However, in terms of performance, Chrome and Brave are pretty much the same (that's because it depends on a variety of external factors such as your internet speed). Nevertheless, Brave uses slightly less memory than Chrome, on average.
     
@@ -65,7 +65,7 @@ If there's a browser that can knock Chrome out of its throne, that's Brave.
 
 Frankly, I didn't find any feature that Chrome has but Brave doesn't.
 
-### Conclusion
+### 👋 Conclusion
 
 All in all, if you are using any other browser, I highly recommend you to try Brave. With all its fancy features, you will definitely fall in love with it thanks to the freedom it brings to you for *free*. No trackers. No ads. Ever.
 
