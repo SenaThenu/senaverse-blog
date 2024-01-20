@@ -70,7 +70,7 @@ Here's the summary,
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705740924862/5d02d99a-58e1-47aa-a0a6-6b23821f72a1.jpeg?height=512 align="center")
 
-**The Golden Rule**: Never launch your product immediately after finishing it! Instead, you must create a conversation around your product, attract people and capture their interest!
+**A Rule of Thumb**: Never launch your product immediately after finishing it! Instead, you must create a conversation around your product, attract people and capture their interest!
 
 If you need some real-world examples,
 
