@@ -18,6 +18,8 @@ As always, by following a strategy you can avoid this and make the most out of y
 
 ### 🏗️ Building an Audience
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705740869979/b4787dd6-6ae0-4edc-a4bd-accb681bc5a4.jpeg?height=512 align="center")
+
 If you don't have an audience, there'll be no one to sell a product to.
 
 So, the first thing you should do is try your best to grow an audience on your social media accounts especially if you don't have enough money to spend on advertisements.
@@ -38,6 +40,8 @@ By the way, make sure you focus more on Product Hunt because that's a popular pr
 </div>
 
 ### 📦 Create a Sick Product
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705740864395/a07f7473-7614-428b-95f7-d5a9e9815100.jpeg?height=512 align="center")
 
 Now, say you have gathered a huge audience. Still, no one would use your product if it's not worth it!
 
@@ -63,6 +67,8 @@ Here's the summary,
 > ~ Steve Jobs
 
 ### 📢 Market Your Product
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705740924862/5d02d99a-58e1-47aa-a0a6-6b23821f72a1.jpeg?height=512 align="center")
 
 **The Golden Rule**: Never launch your product immediately after finishing it! Instead, you must create a conversation around your product, attract people and capture their interest!
 
@@ -97,6 +103,8 @@ You can choose which type of content you are going to post. Still, make sure to 
 
 ### 🚀 Launch the Product
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705740953784/b6d9cf7c-3100-4d83-942d-16468db900ec.jpeg?height=512 align="center")
+
 Ha, finally, the most exciting part! If you have been keeping up with the marketing campaign we discussed above, you just have to announce your product is now available. Make sure to summarise the problem your product is trying to solve and how well it does so.
 
 That way, people who haven't even engaged in the marketing campaign will be interested!
@@ -107,6 +115,8 @@ That way, people who haven't even engaged in the marketing campaign will be inte
 </div>
 
 ### 🥹 Get Feedback & Improve
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705740991220/2dbc1e01-4da1-4fae-a6b0-b46a8b6e9e7c.jpeg?height=512 align="center")
 
 Every year, a more refined product gets released by pretty much every tech company. That's how they can sustain their brand identity and provide the best service possible!
 
