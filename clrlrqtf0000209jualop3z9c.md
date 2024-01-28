@@ -70,12 +70,12 @@ Here's the summary,
 
 Speaking of my experience, here’s a breakdown of all the products I have *unsuccessfully* launched and the problem each product was trying to solve.
 
-* [**Link Orch**](https://www.producthunt.com/products/link-orchard)[**ard** — A link](https://www.producthunt.com/products/link-orchard)\-in-bio tool to allow users to share only one link that would redirect to their other social media websites.
+* [**Link Orchard** — A link](https://www.producthunt.com/products/link-orchard)\-in-bio tool to allow users to share only one link that would redirect to their other social media websites.
     
-* [**Study**](https://www.producthunt.com/products/studysphere)[**Sphere** — A f](https://www.producthunt.com/products/studysphere)ully auto[mated Notion](https://www.producthunt.com/products/link-orchard) template to seamlessly integrate scientifically proven study techniques into users’ study journeys.
+* [**StudySphere** — A f](https://www.producthunt.com/products/studysphere)ully auto[mated Notion](https://www.producthunt.com/products/link-orchard) template to seamlessly integrate scientifically proven study techniques into users’ study journeys.
     
 
-*Full disclosu*[*re:*](https://www.producthunt.com/products/studysphere) [*both of thes*](https://www.producthunt.com/products/link-orchard)*e products are free and open-source (the reasons are explained in the following paragraphs).*
+*Full disclosu*[*re:*](https://www.producthunt.com/products/studysphere)[*both of thes*](https://www.producthunt.com/products/link-orchard)*e products are free and open-source (the reasons are explained in the following paragraphs).*
 
 I didn’t research befor[e creating a](https://www.producthunt.com/products/studysphere)n[y of these p](https://www.producthunt.com/products/link-orchard)roducts. I had no plan whatsoever to inform more people about them. Plus, there was already a saturated market [for Notion T](https://www.producthunt.com/products/link-orchard)[emplat](https://www.producthunt.com/products/studysphere)es and link-in-bio tools.
 
@@ -83,7 +83,7 @@ For instance, Link Orchard was not something 99% of people would be interested i
 
 StudySphere[, on the oth](https://www.producthunt.com/products/link-orchard)er hand, was quite technical. You need Python and some other dependencies to set up the command-line interface it com[es with. Eve](https://www.producthunt.com/products/studysphere)n thoug[h the whole](https://www.producthunt.com/products/link-orchard) process would take only 15 minutes at most, it was pretty hard to market since it didn’t have a Graphical User Interf[ace.](https://www.producthunt.com/products/studysphere)
 
-[*Well,*](https://www.producthunt.com/products/studysphere) *I could have implemented one, but I was too lazy* 😉*…*
+[*Well,*](https://www.producthunt.com/products/studysphere)*I could have implemented one, but I was too lazy* 😉\*…\*
 
 ### 📢 Market Your Product
 
@@ -155,4 +155,4 @@ To sign off, let me leave you with a nice analogy.
 
 *Your product is your child. By launching the product you are only giving birth to it. Afterwards, you have to feed it and make it grow. The more you love and care for it, the more it will yield!*
 
-Along the way, have some fun raising your cute little product baby! All the best! 🤞
+Along the way, have some fun raising your cute little product baby! Best wishes! 🤞
