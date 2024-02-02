@@ -3,6 +3,7 @@ title: "My Thoughts on Social Media"
 datePublished: Fri Feb 02 2024 10:52:20 GMT+0000 (Coordinated Universal Time)
 cuid: cls4j08t8000b09jr2kfvedcc
 slug: my-thoughts-on-social-media
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706873122332/d255e6c0-5205-4e25-860e-d73338f99ab4.png
 tags: social-media, opinion-pieces
 
 ---
