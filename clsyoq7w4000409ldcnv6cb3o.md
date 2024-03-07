@@ -40,8 +40,6 @@ However, I was so lost in the game! It'd been 2 years since I last played a Braw
 
 Anyway, after playing a few matches, I started to get the new things under my belt and my muscle memory struck back! That's when I realised that I was trapped in Brawl Stars' feedback loop!
 
-![](https://lh3.googleusercontent.com/pw/ABLVV84LULhE1xQKx1om3XlMNXblPmBR3aViPvmcO-Zq6QV0M71BRNezU5Q08FaT-O35iHMpwMcUsXTfIqzQO8EnuzaVTD_omu-VaCfbApT4z7_bwEjxFwpq70QjGbFcObinskbBpLw_NsBiCKkZ_qS_H4bxBSUDUo_DoDTJOn3HemfA_l3qtm1nWz6n1y_gqG2F1I-h4vS08rNMJ3mNFEY34fqTJSV4cWxcWeqikO0wscBOmzvRYfRqistRx64miZyxb2iEcAEzg2L67zwIsfEv8q20AV4nCcmeAsm74YtIMM7wrS1kZO6qEjVK2CcKItB1vf8weWrILolJTOaNtGM6xPrJGRr0WFWFfCV4zYKLOXtDSvps_4h90CPhAkAQI5MPcOJ9zMdsnc1hxQlWgUjBw5djEERuBNuXvJK_7M6RZaBgzAVjTbjfQ6OwmH_cF2BZM9Ej36dXVv9DSSVm1I-11rD0TKcIRprQznfXVof0IiVs6nqwCXhVi9CIaUpOO3IeqiayRIoJ3TopK0VUpX_gLcAtwfX3AjlzsKMz4BJCizzfjN_8kRaA-6z5g2MG-1fusja7mfCfmx9Fsz33Wn-JiCcvu-ODvKvIH4TrPeMHAF3-Tg-KWU73vow1dySj7lCJLVWoCrbmlBWEr52cWl81ml0dTIryy3GIIhv2z31knt6ZB5RuXWditEg3gdole30Ef0QcYVeCdpVNUtuFwJFMZJXT6ZW1P_i5MZvhf8p_dzcD37moeNRa4Owj-u-JieMi5bxH7hYk9yQdSpNa89AfF8n_jP02Vshoo1Ea6gc52Vm_PCodC4uNMiIDU6ajbXFPYL1mKul-RylceWyxT6U7rstEW1iniOYrnzoLdRVLQdASeoMQSYZmKbj8UvqVGGmrpQuwLTi7JtfUsx5vMFMKUhQX=w1904-h879-s-no-gm?authuser=0 align="left")
-
 I was getting exposed to huge levels of dopamine after a long time. My brain was so greedy that I ended up playing around 30 matches non-stop!
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708694500432/3e7510cd-64dc-4b97-8bef-208ff839026a.png align="center")
@@ -52,7 +50,7 @@ And so, I went on, cracking 10 more games! In the end, I was finally able to bre
 
 ### Conclusion
 
-Believe me, it was too much to handle after a 2-year-long dopamine detox. So, I'm pretty sure I won't start playing Brawl Stars or any other online game as a routine. I might play a few matches every once in a while and that'd be it!
+Believe me, it was too much to handle after a 2-year-long dopamine detox. So, I'm pretty sure I won't start playing Brawl Stars or any other online game as a routine. I might play a few matches every once in a while and that'd be it! :)
 
 But, you know what? That's just a theory! A *GAME* Theory!
 
