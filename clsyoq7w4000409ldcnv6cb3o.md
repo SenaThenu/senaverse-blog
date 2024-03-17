@@ -50,8 +50,6 @@ And so, I went on, cracking 10 more games! In the end, I was finally able to bre
 
 ### Conclusion
 
-Believe me, it was too much to handle after a 2-year-long dopamine detox. So, I'm pretty sure I won't start playing Brawl Stars or any other online game as a routine. I might play a few matches every once in a while and that'd be it! :)
-
-But, you know what? That's just a theory! A *GAME* Theory!
+Believe me, it was too much to handle after a 2-year-long dopamine detox. I’m planning to use some cool apps to moderate and maintain healthy gaming habits. (ScreenZen and StayFree are good options)
 
 So, let me just sign off and play a few more matches real quick! See you in another article!
