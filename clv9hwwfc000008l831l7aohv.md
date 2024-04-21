@@ -20,7 +20,7 @@ It wasn't a big deal since all you do is press some random buttons!
 
 Obviously, I was wrong. Nothing's too simple in the world, my friend. In fact, it turned out to be one of the biggest projects I had ever worked on. ([find it on GitHub!](https://github.com/SenaThenu/social-media-grower))
 
-### The Plan
+### 🗺️ The Plan
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713701088385/b3c33c94-c364-4095-b773-e6ae60e3876c.jpeg?height=512 align="center")
 
@@ -35,7 +35,7 @@ Afterwards, the whole project idea was crystal clear:
 
 Since this seemed super simple, I allocated a few deadlines and estimated that I would finish the project within 2 weeks by working around 2-3 hours each week.
 
-### Development Process
+### 🏗️ Development Process
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713701174671/5ac56ef4-f851-49d7-abbd-b36fd38d29c1.jpeg?height=512 align="center")
 
@@ -58,7 +58,7 @@ But seriously? I was extremely short on time. Yet, I couldn't help it because tr
 
 The GUI became the most complex part of the whole application. It took me the next 3 weeks (around 10 hours each week) to finish it off.
 
-### Release
+### 📦 Release
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713701271369/438f8377-74f9-4edf-8184-32b261cb761a.jpeg?height=512 align="center")
 
@@ -84,7 +84,7 @@ Finally, I released *v1.0.1* with some minor bug fixes and refined restrictions 
 
 To this day, the Twitter bot has not yet been created. Hopefully, I'll start working on it next week and finish it relatively quickly thanks to my experience with the Instagram bot.
 
-### What I Learnt
+### 😇 What I Learnt
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713701295341/95f9f59c-afdc-4531-9939-4fe4e43819ca.jpeg?height=512 align="center")
 
@@ -101,7 +101,7 @@ To this day, the Twitter bot has not yet been created. Hopefully, I'll start wor
 * Never give up because there’s always a solution. (yo, that's a cliche)
     
 
-### Conclusion
+### 👋 Conclusion
 
 I hope my experience will prevent you from making the same mistakes I made.
 
